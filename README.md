@@ -3,4 +3,4 @@
 
 # Base Model
     
-    1. ChilloutMix: [](https://civitai.com/models/6424/chilloutmix)
+    1. [ChilloutMix](https://civitai.com/models/6424/chilloutmix)
